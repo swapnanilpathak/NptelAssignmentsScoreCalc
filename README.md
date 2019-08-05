@@ -16,3 +16,11 @@ NPTEL (National Programme on Technology Enhanced Learning) is an initiative of I
 # Libraries Used
 1. Numpy
 2. Matplotlib
+
+# ScreenShots
+
+![snap1](ScreenShots/snap1.png)
+
+![snap2](ScreenShots/snap2.png)
+
+![snap3](ScreenShots/snap3.png)
