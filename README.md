@@ -19,8 +19,8 @@ NPTEL (National Programme on Technology Enhanced Learning) is an initiative of I
 
 # ScreenShots
 
-![snap1](ScreenShots/snap1.png)
+![snap1](ScreenShots/snap1.PNG)
 
-![snap2](ScreenShots/snap2.png)
+![snap2](ScreenShots/snap2.PNG)
 
-![snap3](ScreenShots/snap3.png)
+![snap3](ScreenShots/snap3.PNG)
